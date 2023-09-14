@@ -1,0 +1,26 @@
+#wrap{ text-align: center;
+    }
+header a{text-decoration: none;color:plum;}
+header,nav,section,footer
+{
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+nav
+{
+    background-color: rgb(255, 238, 214)
+}
+nav a
+{
+   color: rgb(16, 197, 46);
+   font-weight: bold;
+   text-decoration: none;
+   margin-right: 20px;
+   font-size: 20px;
+   border-right: 1px solid rgb(3, 66, 66);
+   padding-right: 20px;
+ }
+section iframe,
+section img{width: 960px;height: 600px;}
+section{margin-top: 50px;}
